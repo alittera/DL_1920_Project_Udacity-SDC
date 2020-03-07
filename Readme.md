@@ -9,7 +9,7 @@ It is possible to find tha dataset torrents in the original [location](https://g
 
 # Our Solution - Poster
 
-![enter image description here](url)
+![Poster Image](https://raw.githubusercontent.com/alittera/DL_1920_Project_Udacity-SDC/master/Poster.jpeg)
 # Usage
 
 All the code is divided in different ipython notebook, it possible to use the code installing the dependencies and running a notebook server.
